@@ -1,1 +1,9 @@
+body {
+    background-color: #232425;
+    color: #e8e8e8;
+    font-family: 'Work Sans', sans-serif;
+}
 
+h1 {
+    font-family: 'Space Mono', monospace;
+}
